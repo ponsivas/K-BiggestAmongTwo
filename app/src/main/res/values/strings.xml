@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BiggestAmongTwo</string>
+    <string name="EFN">Enter the First Number</string>
+    <string name="ESN">Enter the Second Number</string>
+    <string name="CK">CHECK</string>
+    <string name="CLR">CLEAR</string>
+    <string name="RES">RESULT</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
